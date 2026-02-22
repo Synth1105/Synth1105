@@ -1,26 +1,21 @@
+
                                                          devwon@LittleBreeze.local
                                                          
-                                                         OS: macOS 26.2 25C56 arm64
-                                                         Host: Mac14,3
-                                                         Kernel: 25.2.0
-                   .;oxOKXXXXKOxo;.                      Packages: 151 (port), 212 (brew), 321 (nix-user)
-                ,dXNNNNNNNNNNNNNNNNXx;                   Shell: zsh 5.9
-              cKNNNNNNNNNNNNNNNNNNNNNNXl                 Resolution: 2560x1080
-            .KNNNNNNN0o:'....';lkNNNNNNNX.               CPU: Apple M2
-            XNNNNNNk,.............dNNNNNNN.              GPU: Apple M2
-           ONNNNNNo................;NNNNNNX              Memory: 1.45GiB / 8.00GiB
-           NNNNNNK..................xNNNNNN              GPU Driver: macOS Default Graphics Driver
-           XNNNNNK..................xNNNNNN              CPU Usage: 16%
-           ;NNNNNNo................;NNNNNNc              Disk (/): 11G / 228G (21%)
-            cNNNNNNk,.............dNNNNNNd               Disk (/Volumes/SAMSUNG): 368G / 931G (40%)
-              NNNNNNN0o;'.....;lkNNNNNNN.                Public IP: 58.231.196.191
-                NNNNNNNNNNNNNNNNNNNNNN.
-                   0NNNNNNNNNNNNNNX
-
-
-
-
-
+                       .',,,,'..                         OS: macOS 26.2 25C56 arm64
+                  ,lkXNNNNNNNNNNXOo,                     Host: Mac14,3
+               ,xNNNNNNNNNNNNNNNNNNNNk;                  Kernel: 25.2.0
+             .0NNNNNNNNXOkxxxOKNNNNNNNNK,                Packages: 151 (port), 212 (brew), 321 (nix-user)
+            oNNNNNNN0c'.........:kNNNNNNNd               Shell: zsh 5.9
+           ,NNNNNNX:..............'0NNNNNNl              Resolution: 2560x1080
+           NNNNNNN,.................KNNNNNN              CPU: Apple M2
+           NNNNNN0..................dNNNNNN              GPU: Apple M2
+           ONNNNNN..................0NNNNNX              Memory: 1.48GiB / 8.00GiB
+            NNNNNN0'...............xNNNNNN.              GPU Driver: macOS Default Graphics Driver
+             NNNNNNNd,..........'oXNNNNNN                CPU Usage: 25%
+              :NNNNNNNXkdlcclokKNNNNNNNo                 Disk (/): 11G / 228G (21%)
+                 NNNNNNNNNNNNNNNNNNNN.                   Disk (/Volumes/SAMSUNG): 368G / 931G (40%)
+                     XNNNNNNNNNNN.                       Public IP: 58.231.196.191
+                         :XNl
 
 
 
