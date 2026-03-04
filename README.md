@@ -1,6 +1,7 @@
 <a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=Synth1105&theme=transparent&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=Synth1105&theme=rose_pine&show_icons=true" />
 </a>
+<br / >
 <a href="">
   <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=Synth1105&theme=rose_pine&layout=compact" />
 </a>
