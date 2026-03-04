@@ -11,6 +11,6 @@
 <br/>
 <br/>
 
-## <i class="nf nf-md-monitor_screenshot" style="@import "https://www.nerdfonts.com/assets/css/webfont.css""></i>  
+## Screenshots
 
 <img src="https://raw.githack.com/Synth1105/Synth1105/main/github-wall.png" />
