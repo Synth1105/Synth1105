@@ -1,6 +1,7 @@
 <style>
-@import "https://www.nerdfonts.com/assets/css/webfont.css"
+  @import "https://www.nerdfonts.com/assets/css/webfont.css"
 </style>
+
 <a href="">
   <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=Synth1105&theme=rose_pine&show_icons=true" />
 </a>
