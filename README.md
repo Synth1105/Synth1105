@@ -1,20 +1,5 @@
+# Hello!
+I`m Synth1105, who loves programming!
 
-
-<a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=Synth1105&theme=rose_pine&show_icons=true" />
-</a>
-<br / >
-<br />
-
-<br />
-<br />
-<a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=Synth1105&theme=rose_pine&layout=compact" />
-</a>
-
-<br/>
-<br/>
-
-## Screenshots
-
-<img src="https://raw.githack.com/Synth1105/Synth1105/main/github-wall.png" />
+# Things that i love
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)  ![Zen Browser Badge](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff&style=for-the-badge)  ![Ghostty Badge](https://img.shields.io/badge/Ghostty-3551F3?logo=ghostty&logoColor=fff&style=for-the-badge)  ![Nushell Badge](https://img.shields.io/badge/Nushell-4E9A06?logo=nushell&logoColor=fff&style=for-the-badge)  ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)  ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge)  ![Homebrew Badge](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=for-the-badge)
